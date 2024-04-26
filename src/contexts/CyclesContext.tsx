@@ -1,7 +1,6 @@
 import { ReactNode, createContext, useEffect, useReducer, useState } from "react"
 import {Cycle, CyclesReducer } from "../reducers/cycles/reducer"
 import {AddNewCycleAction, InterruptCycleAction, MarkCurrentCycleAsFinishedAction } from "../reducers/cycles/actions"
-import { json } from "react-router-dom"
 import { differenceInSeconds } from "date-fns"
 
 interface CreateCycleData {
