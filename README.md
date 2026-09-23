@@ -2,10 +2,6 @@
 
 Aplicação web de timer no estilo Pomodoro para organizar o tempo de foco em tarefas. O usuário informa no que vai trabalhar e por quantos minutos, acompanha a contagem regressiva e consulta o histórico de todos os ciclos realizados.
 
-Projeto desenvolvido durante o Ignite ReactJS (2022) da Rocketseat.
-
----
-
 ## ✨ Funcionalidades
 
 - [x] Criar um novo ciclo informando o nome da tarefa e a duração (de 5 a 60 minutos)
